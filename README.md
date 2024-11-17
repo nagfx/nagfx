@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Naman</h1>
 <h3 align="center">A frontend developer who is a fresh graduate of Lancaster University and Sunway University.</h3>
 
-- 🔭 I recently worked on a [Vue.js & TailwindCSS calculator](https://github.com/nagfx/vue-calculator)
+- 🔭 I recently worked on several projects you can see [http://www.namandev.biz/]
 
-- 🌱 I’m currently learning **Vue.js, React.js, Django**
+- 🌱 I’m always upskilling but I work primarily on **Vue.js, React.js, Django**
 
 - 👯 I’m looking to collaborate on **freelance projects**
 
